@@ -8,5 +8,5 @@
     "start_url": "https://pwa.glitch.me/",
 
 
-    "display": "standalone",
+    "display": "standalone"
 }
